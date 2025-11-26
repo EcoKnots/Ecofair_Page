@@ -1,6 +1,6 @@
 import React from "react";
 
-const SITE_URL = "https://ecofairhyderabad.in"; // update after your domain works
+const SITE_URL = "https://www.econauts.in/"; // update after your domain works
 const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdQEL8o_PLopXZBz1A3rjRT7FbqpYf-AXsvpX_oFJcnfn4dqw/viewform?usp=dialog"; // paste your form link here
 
 export default function StickyActions() {
@@ -22,7 +22,7 @@ export default function StickyActions() {
           className="hidden md:inline-flex items-center gap-2 rounded-full border border-[#6b4f35]/15 bg-white px-3 py-2 text-xs font-medium text-[#6b4f35] shadow-sm"
         >
           <span className="inline-block w-6 h-6 rounded-md bg-[repeating-linear-gradient(45deg,#eee_0_2px,#fff_2px_6px)]" />
-          <span>Open EcoFair page</span>
+          <span>Open Econauts page</span>
         </button>
 
         {/* Right: main register button (centered on mobile) */}
@@ -32,7 +32,7 @@ export default function StickyActions() {
             onClick={handleRegisterClick}
             className="inline-flex items-center justify-center rounded-full bg-[#2f7a4a] text-white text-sm font-semibold px-6 py-2.5 shadow-[0_4px_14px_rgba(47,122,74,0.35)] hover:shadow-[0_6px_18px_rgba(47,122,74,0.4)] hover:-translate-y-[1px] transition-all duration-150"
           >
-            Register for EcoFair – Hyderabad
+            Register for EcoFair – Hyderabad on 30th Nov 
           </button>
         </div>
       </div>

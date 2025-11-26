@@ -107,9 +107,9 @@ const categories = [
   },
   {
     title: "Beauty & Personal Care",
-    imageUrl: "https://picsum.photos/seed/beauty-eco/900/600",
+    imageUrl: "natural-cosmetics-frame.jpg",
     videoUrl:
-      "https://www.w3schools.com/html/movie.mp4", // 🔁 replace with natural skincare video
+      "Beauty_video.mp4", // 🔁 replace with natural skincare video
     points: [
       "Natural Skin & Haircare",
       "Handmade Soaps",
@@ -119,9 +119,9 @@ const categories = [
   },
   {
     title: "Art, Craft & Culture",
-    imageUrl: "https://picsum.photos/seed/art-craft/900/600",
+    imageUrl: "indian-handicraft_image.jpg",
     videoUrl:
-      "https://www.w3schools.com/html/mov_bbb.mp4", // 🔁 replace with pottery / craft video
+      "Craft_video.mp4", // 🔁 replace with pottery / craft video
     points: [
       "Handmade Crafts & Decor",
       "Handcrafted Jewelry",
@@ -132,9 +132,9 @@ const categories = [
   },
   {
     title: "Kids & Education",
-    imageUrl: "https://picsum.photos/seed/kids-education/900/600",
+    imageUrl: "kids_and_education.jpg",
     videoUrl:
-      "https://www.w3schools.com/html/movie.mp4", // 🔁 replace with kids eco activities video
+      "kids_Education", // 🔁 replace with kids eco activities video
     points: [
       "Eco-friendly Toys",
       "Sustainable Learning Kits",
@@ -144,9 +144,9 @@ const categories = [
   },
   {
     title: "Gardening & Nature",
-    imageUrl: "https://picsum.photos/seed/gardening-nature/900/600",
+    imageUrl: "gardening.jpg",
     videoUrl:
-      "https://www.w3schools.com/html/mov_bbb.mp4", // 🔁 replace with plants / gardening video
+      "gardening.mp4", // 🔁 replace with plants / gardening video
     points: [
       "Plants & Indoor Greens",
       "Garden Tools & Accessories",
@@ -156,9 +156,9 @@ const categories = [
   },
   {
     title: "Conscious Living Services",
-    imageUrl: "https://picsum.photos/seed/conscious-services/900/600",
+    imageUrl: "conscious_livig.jpg",
     videoUrl:
-      "https://www.w3schools.com/html/movie.mp4", // 🔁 replace with awareness / recycling video
+      "Recycling.mp4", // 🔁 replace with awareness / recycling video
     points: [
       "NGOs & Awareness Stalls",
       "Waste Segregation & Recycling Partners",

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const slidesData = [
   {
-    title: "EcoFair is coming to your doorstep 🌿✨",
+    title: "EcoFair is coming to your doorstep  🌿✨",
     subtitle: "Because conscious living should be easy.",
     img: "/image3.png",
   },
